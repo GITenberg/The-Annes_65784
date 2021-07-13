@@ -5,6 +5,9 @@ contributor:
     agent_name: Nims, W. C.
     gutenberg_agent_id: '53499'
     url: http://www.gutenberg.org/2009/agents/53499
+covers:
+- cover_type: archival
+  image_path: 65784-h/images/cover2.jpg
 creator:
   author:
     agent_name: Taggart, Marion Ames
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39964
     wikipedia: https://en.wikipedia.org/wiki/Marion_Ames_Taggart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65784#The-Annes
 gutenberg_issued: '2021-07-06'
 gutenberg_type: Text
 identifiers:
