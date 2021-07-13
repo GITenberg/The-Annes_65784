@@ -1,0 +1,32 @@
+_repo: The-Annes_65784
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Nims, W. C.
+    gutenberg_agent_id: '53499'
+    url: http://www.gutenberg.org/2009/agents/53499
+creator:
+  author:
+    agent_name: Taggart, Marion Ames
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '39964'
+    url: http://www.gutenberg.org/2009/agents/39964
+    wikipedia: https://en.wikipedia.org/wiki/Marion_Ames_Taggart
+description: ''
+gutenberg_issued: '2021-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65784'
+  lccn: '21010016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Annes
+url: http://www.gutenberg.org/ebooks/65784
